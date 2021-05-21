@@ -104,7 +104,7 @@
         },
         "frameworks": {
           "net5.0": {
-            "targetAlias": "net5",
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -116,7 +116,7 @@
       },
       "frameworks": {
         "net5.0": {
-          "targetAlias": "net5",
+          "targetAlias": "net5.0",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
