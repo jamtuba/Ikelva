@@ -1,0 +1,41 @@
+﻿@model Ikelva.ClassLibrary.Models.Customer
+
+@{
+    ViewData["Title"] = "Ordre modtaget";
+}
+
+<h1>Ordre modtaget</h1>
+
+<div>
+    <h4>Kunde</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">
+            Navn:
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt class="col-sm-3">
+            @Html.DisplayNameFor(model => model.EmailAddress)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.EmailAddress)
+        </dd>
+        <dt class="col-sm-3">
+            Bestilt møbel: 
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FurnitureId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Create">Tilbage til købssiden</a>
+</div>

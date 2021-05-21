@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWgKa/oIfOqmVr0I1ughoITqb2kLFpfuC958RRo7apFew3cblvJfU2Ocv+U0/1ms5EzAkpCsNHAT7w+jPhU6Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Dropbox\\Uddannelse\\System Integration\\Eksamen\\Ikelva\\Ikelva.ClassLibrary\\Ikelva.ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

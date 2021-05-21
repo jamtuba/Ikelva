@@ -1,0 +1,12 @@
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\net5\Ikelva.ClassLibrary.deps.json
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\net5\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\net5\ref\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\net5\Ikelva.ClassLibrary.pdb
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\ref\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.pdb
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5\Ikelva.ClassLibrary.csproj.AssemblyReference.cache

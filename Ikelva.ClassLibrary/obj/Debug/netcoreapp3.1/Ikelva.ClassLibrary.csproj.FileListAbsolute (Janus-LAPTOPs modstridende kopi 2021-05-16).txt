@@ -1,0 +1,8 @@
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\netcoreapp3.1\Ikelva.ClassLibrary.deps.json
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\netcoreapp3.1\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\bin\Debug\netcoreapp3.1\Ikelva.ClassLibrary.pdb
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\netcoreapp3.1\Ikelva.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\netcoreapp3.1\Ikelva.ClassLibrary.AssemblyInfo.cs
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\netcoreapp3.1\Ikelva.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\netcoreapp3.1\Ikelva.ClassLibrary.dll
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\netcoreapp3.1\Ikelva.ClassLibrary.pdb
