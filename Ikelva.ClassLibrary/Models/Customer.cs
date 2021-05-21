@@ -7,19 +7,19 @@ namespace Ikelva.ClassLibrary.Models
         public string CustomerId { get; set; }
         public string FurnitureId { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Husk fornavn")]
         [Display(Name = "Fornavn")]
         public string FirstName { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Husk efternavn")]
         [Display(Name = "Efternavn")]
         public string LastName { get; set; }
 
-        [Required]
-        [Display(Name = "Adresse")]
+        [Required(ErrorMessage = "Husk addresse")]
+        [Display(Name = "Addresse")]
         public string Address { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Husk email")]
         [Display(Name = "Email")]
         [EmailAddress(ErrorMessage = "Du skal indtaste en gyldig email adresse")]
         public string EmailAddress { get; set; }

@@ -46,4 +46,4 @@ C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.cons
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.consumer1\obj\Debug\net5.0\ref\Ikelva.BackEnd.dll
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.consumer1\obj\Debug\net5.0\Ikelva.BackEnd.pdb
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.consumer1\obj\Debug\net5.0\Ikelva.BackEnd.genruntimeconfig.cache
-C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.consumer1\obj\Debug\net5.0\Ikelva.BackEnd.csproj.AssemblyReference.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.consumer1\obj\Debug\net5.0\Ikelva.BackEnd.csprojAssemblyReference.cache
