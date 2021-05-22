@@ -60,7 +60,7 @@ namespace Ikelva.ClassLibrary.Helpers
                 }
             };
 
-            var result = channel.BasicConsume(queueName, true, consumer);
+            channel.BasicConsume(queueName, true, consumer);
         }
     }
 }

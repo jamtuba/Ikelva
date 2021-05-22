@@ -19,4 +19,4 @@ C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.Bank
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.BankApp\obj\Debug\net5.0\Ikelva.BankApp.genruntimeconfig.cache
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.BankApp\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.BankApp\bin\Debug\net5.0\Newtonsoft.Json.Schema.dll
-C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.BankApp\obj\Debug\net5.0\Ikelva.BankApp.csprojAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.BankApp\obj\Debug\net5.0\Ikelva.BankApp.csproj.AssemblyReference.cache

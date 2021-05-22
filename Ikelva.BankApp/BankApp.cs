@@ -45,12 +45,13 @@ namespace Ikelva.BankApp
 
                 var customer = JsonSerializer.Deserialize<BankCustomer>(body);
 
+                #region Output
                 Console.WriteLine("Besked modtaget:");
                 Console.WriteLine("- - - - - - - - - - - - - - -");
                 Console.WriteLine($"Navn: {customer.FullName}");
                 Console.WriteLine($"Email: {customer.EmailAddress}");
                 Console.WriteLine("------------------------------");
-
+                #endregion
                 var corId = eventArgs.BasicProperties.CorrelationId;
 
                 if (!corIds.Contains(corId))

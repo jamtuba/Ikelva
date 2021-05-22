@@ -9,4 +9,4 @@ C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.Clas
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5.0\Ikelva.ClassLibrary.dll
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5.0\ref\Ikelva.ClassLibrary.dll
 C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5.0\Ikelva.ClassLibrary.pdb
-C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5.0\Ikelva.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Uddannelse\System Integration\Eksamen\Ikelva\Ikelva.ClassLibrary\obj\Debug\net5.0\Ikelva.ClassLibrary.csproj.AssemblyReference.cache

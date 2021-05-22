@@ -14,18 +14,6 @@ namespace Ikelva.MVC.Controllers
             _producer = producer;
         }
 
-        //// GET: FurnitureController
-        //public ActionResult Index()
-        //{
-        //    return View();
-        //}
-
-        //// GET: FurnitureController/Details/5
-        //public ActionResult Details(int id)
-        //{
-        //    return View();
-        //}
-
         // GET: FurnitureController/Create
         public ActionResult Create()
         {
@@ -48,47 +36,5 @@ namespace Ikelva.MVC.Controllers
 
             return View("OrderReceived", customer);
         }
-
-        //// GET: FurnitureController/Edit/5
-        //public ActionResult Edit(int id)
-        //{
-        //    return View();
-        //}
-
-        //// POST: FurnitureController/Edit/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Edit(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
-
-        //// GET: FurnitureController/Delete/5
-        //public ActionResult Delete(int id)
-        //{
-        //    return View();
-        //}
-
-        //// POST: FurnitureController/Delete/5
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Delete(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
     }
 }
