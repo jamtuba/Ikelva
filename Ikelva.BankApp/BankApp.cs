@@ -16,6 +16,7 @@ namespace Ikelva.BankApp
 
         static void Main(string[] args)
         {
+            Console.WriteLine();
             Console.WriteLine("BankApp begynder at lytte med:");
             Console.WriteLine("------------------------------");
             ConsumeFromQueue(EndPoints.ToBankQueueName, EndPoints.ToBankRoutingKey);
