@@ -17,7 +17,7 @@ namespace Ikelva.BankApp
         static void Main(string[] args)
         {
             Console.WriteLine();
-            Console.WriteLine("BankApp begynder at lytte med:");
+            Console.WriteLine("Bank App begynder at lytte med:");
             Console.WriteLine("------------------------------");
             ConsumeFromQueue(EndPoints.ToBankQueueName, EndPoints.ToBankRoutingKey);
             Console.ReadLine();
@@ -46,19 +46,19 @@ namespace Ikelva.BankApp
 
                 var customer = JsonSerializer.Deserialize<BankCustomer>(body);
 
-                #region Output
+                var corId = eventArgs.BasicProperties.CorrelationId;
+
                 Console.WriteLine("Besked modtaget:");
                 Console.WriteLine("- - - - - - - - - - - - - - -");
                 Console.WriteLine($"Navn: {customer.FullName}");
                 Console.WriteLine($"Email: {customer.EmailAddress}");
+                Console.WriteLine($"CorrolationId: {corId}");
                 Console.WriteLine("------------------------------");
-                #endregion
-                var corId = eventArgs.BasicProperties.CorrelationId;
 
                 if (!corIds.Contains(corId))
                 {
                     corIds.Add(corId);
-                    SendResponse(customer, eventArgs.BasicProperties.CorrelationId);
+                    SendResponse(customer, corId);
                 }
             };
 

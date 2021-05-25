@@ -10,7 +10,7 @@ namespace Ikelva.RoutingApp
         static void Main(string[] args)
         {
             Console.WriteLine();
-            Console.WriteLine("BackEnd er begyndt at lytte!");
+            Console.WriteLine("Routing App er begyndt at lytte!");
             Console.WriteLine("------------------------------");
 
             var host = AppStartup();
